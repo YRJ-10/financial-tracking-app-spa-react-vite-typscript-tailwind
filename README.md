@@ -1,4 +1,3 @@
-````markdown
 # Finance Tracker SPA
 
 A **Single Page Application (SPA)** built with **React, Vite, TypeScript, and Tailwind CSS** for **financial tracking**.  
