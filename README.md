@@ -4,6 +4,7 @@ A **Single Page Application (SPA)** built with **React, Vite, TypeScript, and Ta
 
 This is a **frontend-only app**. You can connect it to your own backend or database if desired.  
 For quick testing and simulation, the app uses **local storage**, so your data persists across reloads but will be lost if browser cache is cleared.
+It’s a project where I put together some parts with Gemini’s help and tweaked them to fit my needs, and I just run it on my local server.
 
 ---
 
