@@ -22,7 +22,7 @@ Make sure you have installed:
 Clone the repository and install dependencies:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/YRJ-10/financial-tracking-app-spa-react-vite-typscript-tailwind.git <your-repo-folder>
 cd <project-root>
 npm install
 ````
